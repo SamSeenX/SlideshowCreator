@@ -1,6 +1,6 @@
 # Slideshow Creator
 
-[![SamSeen Logo](https://img.shields.io/badge/Slideshow_Creator-by_SamSeen_Solutions-orange?style=for-the-badge)](https://github.com/MrSamSeen)
+[![SamSeen Logo](https://img.shields.io/badge/Slideshow_Creator-by_SamSeen_Solutions-orange?style=for-the-badge)](https://github.com/SamSeenX)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge)
@@ -77,4 +77,4 @@ Slideshow Creator is a Python script that creates smooth zoom transitions betwee
 - **Batch Processing:** Includes functions for processing batches of images and creating a video.
 </details>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSamSeen&show_icons=true&theme=transparent)](https://github.com/MrSamSeen)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=transparent)](https://github.com/SamSeenX)
